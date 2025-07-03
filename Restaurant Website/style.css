@@ -236,11 +236,11 @@ nav {
 
 /* -------- Section 2 --------- */
 
-.section_container .section_subheader {
+.service_container .section_subheader {
   text-align: center;
 }
 
-.service_container .section_subheader {
+.service_container .section_header {
   margin-bottom: 4rem;
   max-width: 600px;
   margin-inline: auto;
