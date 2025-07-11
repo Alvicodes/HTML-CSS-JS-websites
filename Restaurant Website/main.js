@@ -49,3 +49,10 @@ ScrollReveal().reveal(".service_card", {
   ...scrollRevealOption,
   interval: 500,
 });
+
+// Slider Element
+
+const swiper = new Swiper(".swiper", {
+  slidesPerView: "auto",
+  spaceBetween: 30,
+});
